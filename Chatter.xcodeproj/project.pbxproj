@@ -13,6 +13,8 @@
 		949447321F38DC7E004BA0F0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 949447301F38DC7E004BA0F0 /* Main.storyboard */; };
 		949447341F38DC7E004BA0F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 949447331F38DC7E004BA0F0 /* Assets.xcassets */; };
 		949447371F38DC7E004BA0F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 949447351F38DC7E004BA0F0 /* LaunchScreen.storyboard */; };
+		9494473F1F38FFF6004BA0F0 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9494473E1F38FFF6004BA0F0 /* Post.swift */; };
+		949447411F39005A004BA0F0 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949447401F39005A004BA0F0 /* SampleData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		949447331F38DC7E004BA0F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		949447361F38DC7E004BA0F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		949447381F38DC7E004BA0F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9494473E1F38FFF6004BA0F0 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		949447401F39005A004BA0F0 /* SampleData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				9494472C1F38DC7E004BA0F0 /* MasterViewController.swift */,
 				9494472E1F38DC7E004BA0F0 /* DetailViewController.swift */,
 				949447301F38DC7E004BA0F0 /* Main.storyboard */,
+				9494473E1F38FFF6004BA0F0 /* Post.swift */,
+				949447401F39005A004BA0F0 /* SampleData.swift */,
 				949447331F38DC7E004BA0F0 /* Assets.xcassets */,
 				949447351F38DC7E004BA0F0 /* LaunchScreen.storyboard */,
 				949447381F38DC7E004BA0F0 /* Info.plist */,
@@ -143,6 +149,8 @@
 				9494472F1F38DC7E004BA0F0 /* DetailViewController.swift in Sources */,
 				9494472D1F38DC7E004BA0F0 /* MasterViewController.swift in Sources */,
 				9494472B1F38DC7E004BA0F0 /* AppDelegate.swift in Sources */,
+				949447411F39005A004BA0F0 /* SampleData.swift in Sources */,
+				9494473F1F38FFF6004BA0F0 /* Post.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
